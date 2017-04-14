@@ -1,6 +1,6 @@
 {
   "name": "@dpcorbett/dpc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "First ting,",
   "main": "0",
   "scripts": {
@@ -11,5 +11,13 @@
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpcorbett/fcc-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dpcorbett/fcc-npm/issues"
+  },
+  "homepage": "https://github.com/dpcorbett/fcc-npm#readme"
 }
